@@ -1,6 +1,6 @@
 let request = require('request')
 
-let apiKey='3d99c4a247cde93b9708fe2700904ae2';
+let apiKey='<API-KEY>';
 
 const CITIES=['Kolkata','Banglore','Delhi'];
 
